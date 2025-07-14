@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="justify">Just a lazy 🇲🇽 dude who wants to learn more about IT stuff. </p>
+<p align="justify">Just a lazy 🇲🇽 dude who wants to learn more about IT stuff. Currently I'm watching anime or playing videogames, sometimes I study for a while when I get interested about something.</p>
 
 ## Goals
 
@@ -24,10 +24,15 @@
 
 - Improve my english 🇺🇸
 - Learn french 🇫🇷
-<p align="justify">I want to </p>
+<p align="justify">I want to grow up as a programmer, right now I'm into web dev and database but I want to focus on cibersecurity.</p>
 
-<div></div>
+<div align="center">
+ 
 [Repository](https://github.com/IIFreyrII/IIFreyrII)
+ 
+</div>
+
+
 
 <!--
 **IIFreyrII/IIFreyrII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
