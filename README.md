@@ -1,11 +1,32 @@
 # Yahallo! 👋🏼
+
 <div align="center">
  <picture>
   <img alt="Wave" src="assets/images/Ai.webp">
  </picture>
 </div>
 
-<p>Just a lazy dude who wants to learn more about IT stuff. </p>
+<div></div>
+
+<p align="justify">Just a lazy dude who wants to learn more about IT stuff. </p>
+
+## Goals
+
+- [X] Learn HTML
+- [ ] Learn CSS
+- [ ] Learn JavaScript
+- [ ] Learn MySQL
+- [ ] Learn Linux
+- [ ] Learn Python
+- [ ] Learn C++
+
+## Future objectives
+
+- Improve my english :flag_us: 
+- Learn french
+<p align="justify">I want to </p>
+
+<div></div>
 [Repository](https://github.com/IIFreyrII/IIFreyrII)
 
 <!--
