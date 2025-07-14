@@ -1,6 +1,6 @@
 # Yahallo 👋🏼
 
-<img src="Ai.webp" alt="Wave" type="image/webp" align="auto">
+<img src="Ai.webp" alt="Wave" type="image/webp" align="center">
 
 [Repository](https://github.com/IIFreyrII/IIFreyrII)
 
