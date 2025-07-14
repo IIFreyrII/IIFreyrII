@@ -2,6 +2,7 @@
 <p align="center">
   <img src="Ai.webp" alt="Wave" type="image/webp">
 </p>
+
 [Repository](https://github.com/IIFreyrII/IIFreyrII)
 
 <!--
