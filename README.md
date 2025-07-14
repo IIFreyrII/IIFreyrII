@@ -1,5 +1,5 @@
 # Yahallo! 👋🏼
-<div>
+<div align="center">
  <picture>
   <img alt="Wave" src="assets/images/Ai.webp">
  </picture>
