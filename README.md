@@ -8,7 +8,7 @@
 
 <div></div>
 
-<p align="justify">Just a lazy dude who wants to learn more about IT stuff. </p>
+<p align="justify">Just a lazy :flag_mexico: dude who wants to learn more about IT stuff. </p>
 
 ## Goals
 
@@ -22,8 +22,8 @@
 
 ## Future objectives
 
-- Improve my english :flag_us: 
-- Learn french
+- Improve my english :flag_united_states: 
+- Learn french :flag_france:
 <p align="justify">I want to </p>
 
 <div></div>
