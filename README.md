@@ -1,4 +1,5 @@
 # Yahallo! 👋🏼
+<link rel="stylesheet" href="styles/styles.css">
 <picture align="center">
  <img alt="Wave" src="assets/images/Ai.webp">
 </picture>
