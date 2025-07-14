@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<a href= "https://bfreyr.com" target="_self">Repository</a>
+[https://bfreyr.com](https://github.com/IIFreyrII/IIFreyrII)
 
 <!--
 **IIFreyrII/IIFreyrII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
