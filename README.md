@@ -1,8 +1,9 @@
 # Yahallo! 👋🏼
-<link rel="stylesheet" href="styles/styles.css">
-<picture align="center">
- <img alt="Wave" src="assets/images/Ai.webp">
-</picture>
+<div>
+ <picture>
+  <img alt="Wave" src="assets/images/Ai.webp">
+ </picture>
+</div>
 
 <p>Just a lazy dude who wants to learn more about IT stuff. </p>
 [Repository](https://github.com/IIFreyrII/IIFreyrII)
