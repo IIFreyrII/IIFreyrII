@@ -1,6 +1,8 @@
-# Hi there 👋
+# Yahallo 👋🏼
 
-[https://bfreyr.com](https://github.com/IIFreyrII/IIFreyrII)
+<img src="Ai.webp" alt="Wave" type="image/webp">
+
+[Repository](https://github.com/IIFreyrII/IIFreyrII)
 
 <!--
 **IIFreyrII/IIFreyrII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
