@@ -1,6 +1,6 @@
 # Yahallo! 👋🏼
 <picture align="center">
- <img alt="Wave" src="Ai.webp">
+ <img alt="Wave" src="assets/images/Ai.webp">
 </picture>
 
 <p>Just a lazy dude who wants to learn more about IT stuff. </p>
