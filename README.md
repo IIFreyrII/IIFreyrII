@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="justify">Just a lazy 🇲🇽 dude who wants to learn more about IT stuff. Currently I'm watching anime or playing videogames, sometimes I study for a while when I get interested about something.</p>
+<p align="justify">Just a lazy 🇲🇽 dude who wants to learn more about IT stuff. Currently I'm watching anime or playing video games, sometimes I study for a while when I get interested about something.</p>
 
 ## Goals
 
