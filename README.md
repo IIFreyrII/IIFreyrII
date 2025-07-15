@@ -29,6 +29,7 @@
 ## Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bryanfreyrecan/)
+[![Facebook](https://img.shields.io/badge/Facebook-%230866FF?logo=Facebook)](https://www.facebook.com/bryan.freyre.can/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discordapp.com/users/742833915739242539)
 
 
