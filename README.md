@@ -1,4 +1,4 @@
-# Yahallo! 👋🏼
+<h1 align="center">Yahallo! 👋🏼</h1>
 
 <div align="center">
  <picture>
