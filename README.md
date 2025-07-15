@@ -26,11 +26,9 @@
 - Learn french 🇫🇷
 <p align="justify">I want to grow up as a programmer, right now I'm into web dev and database but I want to focus on cibersecurity.</p>
 
-<div align="center">
- 
-[Repository](https://github.com/IIFreyrII/IIFreyrII)
- 
-</div>
+## Social Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bryanfreyrecan/)
 
 
 
