@@ -1,4 +1,4 @@
-<h1 align="center"> Yahallo! <img src="assets/images/wave.webp" type="image/webp" width="35"></h1>
+<h1 align="center"> Yahallo! <img src="assets/images/wave.webp" type="image/webp" width="100"></h1>
 
 <div align="center">
  <picture>
