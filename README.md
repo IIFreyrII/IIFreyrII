@@ -13,12 +13,8 @@
 ## Goals
 
 - [X] Learn HTML
-- [ ] Learn CSS
-- [ ] Learn JavaScript
-- [ ] Learn MySQL
-- [ ] Learn Linux
-- [ ] Learn Python
-- [ ] Learn C++
+- [X] Learn Linux
+- [X] Learn Python
 
 ## Future objectives
 
